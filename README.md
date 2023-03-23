@@ -18,6 +18,4 @@ console when the server starts, e.g. `Listening on port 3001`.
 
 **Prompt du projet :** Front & Back déjà fournis, l'objectif est d'intégrer dynamiquement les éléments de l'API dans les différentes pages web avec Javascript.
 
-**Technos :** HTML, CSS, JavaScript.
-
 **Restrictions:** Interdiction de modifier le HTML ou le CSS.
